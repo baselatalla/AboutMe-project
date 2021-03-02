@@ -1,3 +1,14 @@
 nav{
-    display: inline-block;
+    color: brown;
+   display: inline-block;
+}
+
+main{
+    background-color: rgb(46, 139, 221);
+}
+header { background-image: url(/img/200826-artificial-intelligence-machine-learning-min.jpg);
+    width: auto;
+}
+footer{
+    color: blueviolet;
 }
