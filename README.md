@@ -9,3 +9,9 @@ class-03 update :
 2. gurssing a name form a group of names with limited attempts.
 
 - slight change on the css.
+
+- lab-04 updates 
+- we adjust all the 7 qaustions to perform as functions 
+done:
+1. the nivigator : Basil Atalla.
+2. the driver : Niveen Smadi .
