@@ -1,24 +1,43 @@
-
+body{
+    background-color: black;
+    color: white;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
 a{
     text-decoration:none;
-    color: wheat
+    color: rgb(2, 0, 0)
 }
 .nev-item{ 
     display: inline-block;
-    margin-right: 40px;
+    margin-right: 15px;
     font-size: larger;
-    background-color: black;
+    
+    
 }
-main{
-    background-color: rgb(46, 139, 221);
+h1{
+ text-align: center;   
+ padding: 100px;
+ font-size: 80px;
+ color: black;
+ background-image: url(https://www.ilovewallpaper.co.uk/images/zara-mono-geometric-wallpaper-white-black-p6181-19335_thumbmini.jpg);
 }
-header { background-image: url(/img/200826-artificial-intelligence-machine-learning-min.jpg);
+header { 
+    background-color: white;
     width: auto;
-    padding: 25;
-
+    padding: 0;
+    color: black;
+    font-size: larger;
 }
 footer{
-    color: blueviolet;
-    background-color: aqua;
+ background-color: white;
+ border: 5px gray;
+ color: black;
+ font-size: larger;
+ background-image:url(../img/EDYTL_SQ1_0000000019_BLACK_WHITE_SLf.jpg);
    
+}
+.div1{
+    background-image:url(../img/EDYTL_SQ1_0000000019_BLACK_WHITE_SLf.jpg);
 }
