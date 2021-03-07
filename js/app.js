@@ -63,7 +63,7 @@ function number (){
     m = parseInt(medals);
     if ( m === 12 ){alert('you nailed it, It is correct '); count1 =0; counterx++; //console.log('CORRECT');
     }else {
-      if ( m < 5 ){ alert('its too low');} else{ if ( m < 12){ alert('little bit higher !');} else{ if ( m >12 && m <15 ){ alert('litle bit lower');} else {if ( m > 15){ alert('it is too high');}}}}}
+      if ( m < 5 ){ alert('its too low');} else{ if ( m < 12){ alert('its too low!');} else{ if ( m >12 && m <15 ){ alert('it is too high');} else {if ( m > 15){ alert('it is too high');}}}}}
     if ( count1 === 0 && m !== 12){alert(' sorry its incorrect, the right is 12 '); //console.log('INCORRECT');
     }}
 }
